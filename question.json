@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "theme": "Histoire",
+    "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+    "reponse": "L'assassinat de l'archiduc François-Ferdinand d'Autriche"
+  },
+  {
+    "id": 2,
+    "theme": "Science",
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+    "reponse": "L'hydrogène"
+  },
+  {
+    "id": 3,
+    "theme": "Géographie",
+    "question": "Quel est le plus grand désert du monde ?",
+    "reponse": "Le plus grand désert du monde en termes de superficie est le désert de l'Antarctique"
+  },
+  {
+    "id": 4,
+    "theme": "Cinéma",
+    "question": "Qui a réalisé le film 'Inception' sorti en 2010 ?",
+    "reponse": "Christopher Nolan"
+  },
+  {
+    "id": 5,
+    "theme": "Jeux vidéos",
+    "question": "Quel jeu vidéo est souvent considéré comme le premier jeu vidéo de l'histoire ?",
+    "reponse": "Pong sur Atari en 1972"
+  },
+  {
+    "id": 6,
+    "theme": "Prix Nobel",
+    "question": "Qui a été la première femme à remporter un prix Nobel ?",
+    "reponse": "Marie Curie pour ses travaux sur la radioactivité."
+  }
+]
